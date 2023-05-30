@@ -2,6 +2,8 @@
 
 
 This web application allows users to upload an image and detects whether it contains a watermark or not. The image is sent to Azure's Custom Vision service,  which uses a custom vision model I made and trained on a large dataset of watermark and non-watermark images.
+#### Try it here
+https://hamzashaukat111.github.io/Watermark-Detection-Project/
 
 ## Features
 - Upload an image to be processed by the watermark detection model.
